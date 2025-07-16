@@ -1,0 +1,22 @@
+{
+  "UserSuccess": {
+    "email": "test@test.com",
+    "password": "test123"
+  },
+  "UserSuccessAdm": {
+    "email": "admin@test.com",
+    "password": "test123"
+  },
+  "UserFail": {
+    "email": "testss@fail.com",
+    "password": "teste"
+  },
+  "UserFailAdm": {
+    "email": "teste@fail.com",
+    "password": "teste"
+  },
+  "UserInvalid": {
+    "email": "teste",
+    "password": "teste"
+  }
+}
